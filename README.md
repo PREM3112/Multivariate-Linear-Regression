@@ -23,8 +23,8 @@ Create the linearRegression model and predict the output
 
 ## Program:
 ```
-#Developed by :- challa sandeep
-#Register number:- 212221240011
+#Developed by :-prem.R
+#Register number:- 23002486
 import pandas as pd
 from sklearn import linear_model
 
@@ -46,7 +46,8 @@ print('Predicted co2 for the corresponding weight and volume',predictedCO2)
 
 ```
 ## Output:
-![1](/Screenshot%202023-12-25%20094235.png)
+![Screenshot 2023-12-25 094235](https://github.com/PREM3112/Multivariate-Linear-Regression/assets/145449383/2f34f8c7-25ab-4124-b24d-60f78ff18945)
+
 
 
 
